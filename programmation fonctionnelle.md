@@ -1,5 +1,7 @@
 # Functional programming
 
+[![Status](https://img.shields.io/badge/Status-On_going-yellow.svg)]() 
+
 ## Functional expression
 - F = (f(n) (f(n-1) ... ) )
 
